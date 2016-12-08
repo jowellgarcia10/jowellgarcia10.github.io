@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+  <title>My First Web Page</title>
+ </head>
+
+ <body>
+
+  <h1>Hello World!</h1>
+  
+  <h2>A PLace I Would Like to Visit</h2>
+  
+  <p>London, because it has so many interesting architectures.</p>
+  
+  <h2>A Person That I Admire</h2>
+  
+  <p>Admiration is the essence that makes us try to work hard for. To start off the person 
+  that i admire the most is my mom. She's a very energetic woman that does not give up 
+  at all. She's a very admirable woman, which a lot of people look up to.</p>
+  
+  <h2>Favorite Fruits</h2>
+  
+  <ul>
+    <li>Apple</li>
+    <li>Banananananana</li>
+    <li>Mango</li>
+    <li>Watermelon</li>
+    <li>Pear</li>
+  </ul>
+    
+  <h2>Favorite Presidents</h2>
+  
+  <ol> 
+    <li>Barack Obama</li>
+    <li>Abraham Lincoln</li>
+    <li>George Washington</li>
+    <li>John F Kennedy</li>
+    <li>Franklin D Roosevelt</li>
+  </ol>
+  
+ </body> 
+</html>   
